@@ -8,7 +8,7 @@ The Car Hub App is a web application built with Next.js, TypeScript, Tailwind CS
 
 ## Live Site
 
-Check out the live site [here](https://f1tness-app.netlify.app/).
+Check out the live site [here](https://c4r-hub.vercel.app/).
 
 ## Features
 
